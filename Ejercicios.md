@@ -9,14 +9,14 @@ Cuál es el código emmet para generar la siguiente estructura?
 <li></li>
 </ul>
 ~~~
-Respuesta:
+<b>Resuesta</b>:
 ~~~
 ul>li*3
 ~~~
 
 ## Ejercicio 2
-Cuál es el código emmet para generar una tabla con 10 filas y 2 columnas?
-Respuesta:
+Cuál es el código emmet para generar una tabla con 10 filas y 2 columnas?<br>
+<b>Resuesta</b>:
 ~~~
 table>tr*10>td*2
 ~~~
@@ -26,7 +26,7 @@ Cuál es el código emmet para generar la siguiente estructura?
 ~~~
 <h1 class="text text-titulo">Ola mundo</h1>
 ~~~
-Respuesta:
+<b>Resuesta</b>:
 ~~~
 h1.text.text-titulo{Ola mundo}
 ~~~
@@ -39,7 +39,7 @@ Cuál es el código emmet para generar la siguiente estructura?
 <p>datos</p>
 </div>
 ~~~
-Respuesta:
+<b>Resuesta</b>:
 ~~~
  div>p*2{datos}
 ~~~
@@ -61,7 +61,7 @@ Cuál es el código emmet para generar la siguiente estructura?
 <span></span>
 </p>
 ~~~
-Respuesta:
+<b>Resuesta</b>:
 ~~~
 div+p*4>span
 ~~~
@@ -77,7 +77,7 @@ Cuál es el código emmet para generar la siguiente estructura?
 </p>
 </div>
 ~~~
-Respuesta:
+<b>Resuesta</b>:
 ~~~
 div#hola.principal>p>section#seccion.seccion>h1{Ola mundo!}
 ~~~
@@ -92,7 +92,7 @@ Cuál es el código emmet para generar la siguiente estructura?
 <li>dentro</li>
 </ol>
 ~~~
-Respuesta:
+<b>Resuesta</b>:
 ~~~
 ol>li*4{dentro}
 ~~~
@@ -109,7 +109,7 @@ Cuál es el código emmet para generar la siguiente estructura?
 </div>
 </p>
 ~~~
-Respuesta:
+<b>Resuesta</b>:
 ~~~
 p+div+p>div>div
 ~~~
@@ -124,7 +124,7 @@ Cuál es el código emmet para generar la siguiente estructura?
 <a href="">enlace4</a>
 </nav>
 ~~~
-Respuesta:
+<b>Resuesta</b>:
 ~~~
 nav.menu>a*4{enlace$}
 ~~~
@@ -139,7 +139,7 @@ Cuál es el código emmet para generar la siguiente estructura?
 <li class="item-4">Nihil ratione voluptates iure cum eligendi dolores deleniti quos nostrum.</li>
 </ul>
 ~~~
-Respuesta:
+<b>Resuesta</b>:
 ~~~
 ul.lista>li.item-$*4>lorem10
 ~~~
